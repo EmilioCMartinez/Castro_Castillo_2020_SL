@@ -1,2 +1,4 @@
 # Castro_Castillo_2020_SL
 Miguel Castro and Luis Castillo 3D surface plot showing sensitivity of SL horizontal movement to spin rate and velocity. Data from 2020 season
+
+Looking at Miguel Castro and Luis Castillo sliders here. You can see that Castro gets significantly more horizontal movement on his slider  and it is very sensitive to velo + spin rate compared to Castillo's. This is my first attempt at sensitivity plots, possibly going to add more value if different data points were able to be accessed. Sensitivity is important in analyzing breaking balls, becuase as spin and axis stay constant, velocity changes contribute to movement profiles of pitches. The slower the pitch, the more movement, the faster the pitch, the less movement. Using sensitivity plots in the future can help breaking ball design, seeing which factors; spin rate, velocity, axis, etc, will contribute the MOST to each individual's pitch. 
